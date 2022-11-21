@@ -9,3 +9,7 @@ To run the project, follow the steps below:
   4. Once the above steps are performed, click the run button in webots.
 
 For in detail work of the project, please view the report.pdf present in the repository.
+
+
+https://user-images.githubusercontent.com/76431286/202935933-41792f01-68af-48ce-8380-f17e1fd1283e.mp4
+
