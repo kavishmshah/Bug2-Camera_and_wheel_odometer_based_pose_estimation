@@ -8,7 +8,7 @@ To run the project, follow the steps below:
   3. Set the webots controller to the "project.py" python script present in the repo.
   4. Once the above steps are performed, click the run button in webots.
 
-For in detail work of the project, please view the report.pdf present in the repository.
+For in detail work of the project, please view the [Report](https://github.com/kavishmshah/Bug2-Camera_and_wheel_odometer_based_pose_estimation/blob/main/report.pdf) present in the repository.
 
 
 https://user-images.githubusercontent.com/76431286/202935933-41792f01-68af-48ce-8380-f17e1fd1283e.mp4
